@@ -6,11 +6,6 @@ export const config = {
 
 export default async function handler(req) {
   const links = [
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM11",
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM12",
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM13",
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM14",
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM15",
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM16",
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM17",
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM18",
@@ -20,7 +15,12 @@ export default async function handler(req) {
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM22",
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM23",
     "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM24",
-    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM25"
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM25",
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM26",
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM27",
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM28",
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM29",
+    "https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=SIAM30"
   ];
 
   try {
